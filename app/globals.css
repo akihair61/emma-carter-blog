@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+body {
+  background-color: #fdfcf9;
+  color: #1a1a1a;
+  font-family: Georgia, 'Times New Roman', serif;
+}
+
+.prose h2 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: #111;
+  font-family: Georgia, serif;
+}
+
+.prose p {
+  margin-bottom: 1.25rem;
+  line-height: 1.85;
+  color: #2a2a2a;
+}
+
+.prose strong {
+  color: #111;
+}

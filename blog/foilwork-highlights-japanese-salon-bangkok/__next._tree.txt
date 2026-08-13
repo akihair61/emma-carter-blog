@@ -1,0 +1,6 @@
+:HL["/emma-carter-blog/_next/static/chunks/2yn9okk9juq2r.css","style"]
+:HL["https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80","image"]
+:HL["https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=80&q=80","image"]
+:HL["https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&q=80","image"]
+:HL["https://images.unsplash.com/photo-1540555700478-4be289fbecef?w=1200&q=80","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"foilwork-highlights-japanese-salon-bangkok","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"KIK4y3ZSn279cWRzKwwxi"}

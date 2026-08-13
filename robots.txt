@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://akihair61.github.io/emma-carter-blog/sitemap.xml

@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://emmacartwrites.github.io/emma-carter-blog/sitemap.xml
+Disallow: /

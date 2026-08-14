@@ -5,6 +5,15 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Blog — Emma Carter",
   description: "Beauty and travel writing from Bangkok.",
+  alternates: { canonical: "/blog" },
+  openGraph: {
+    type: "website",
+    url: "/blog",
+    siteName: "Emma Carter",
+    locale: "en_GB",
+    title: "Blog — Emma Carter",
+    description: "Beauty and travel writing from Bangkok.",
+  },
 };
 
 function formatDate(dateStr: string) {

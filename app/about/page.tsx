@@ -3,6 +3,15 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "About — Emma Carter",
   description: "About Emma Carter, London-born beauty and travel blogger based in Bangkok.",
+  alternates: { canonical: "/about" },
+  openGraph: {
+    type: "profile",
+    url: "/about",
+    siteName: "Emma Carter",
+    locale: "en_GB",
+    title: "About — Emma Carter",
+    description: "About Emma Carter, London-born beauty and travel blogger based in Bangkok.",
+  },
 };
 
 export default function AboutPage() {

@@ -11,7 +11,36 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const post = getPostBySlug(slug);
   if (!post) return {};
-  return { title: `${post.title} — Emma Carter`, description: post.excerpt };
+  return {
+    title: `${post.title} — Emma Carter`,
+    description: post.excerpt,
+    alternates: { canonical: `/blog/${post.slug}` },
+    openGraph: {
+      type: "article",
+      url: `/blog/${post.slug}`,
+      siteName: "Emma Carter",
+      locale: "en_GB",
+      title: post.title,
+      description: post.excerpt,
+      publishedTime: post.date,
+      authors: ["Emma Carter"],
+      tags: post.tags,
+      images: [absolute(coverImages[post.slug] || defaultImg)],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: post.title,
+      description: post.excerpt,
+      images: [absolute(coverImages[post.slug] || defaultImg)],
+    },
+  };
+}
+
+const SITE = "https://akihair61.github.io";
+
+// 画像パスはサイト内が相対・Unsplashが絶対で混在するので、OGP用に必ず絶対URLへ揃える
+function absolute(src: string) {
+  return src.startsWith("http") ? src : SITE + src;
 }
 
 function formatDate(dateStr: string) {
@@ -40,8 +69,27 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
 
   const relatedPosts = posts.filter(p => p.slug !== post.slug).slice(0, 3);
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: post.title,
+    description: post.excerpt,
+    image: absolute(coverImages[post.slug] || defaultImg),
+    datePublished: post.date,
+    dateModified: post.date,
+    keywords: post.tags.join(", "),
+    inLanguage: "en-GB",
+    author: { "@type": "Person", name: "Emma Carter", url: `${SITE}/emma-carter-blog/about` },
+    publisher: { "@type": "Person", name: "Emma Carter" },
+    mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE}/emma-carter-blog/blog/${post.slug}` },
+  };
+
   return (
     <article>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       {/* Hero image */}
       <div className="relative h-[60vh] min-h-[400px] overflow-hidden">
         <img

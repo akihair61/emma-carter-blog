@@ -2,8 +2,20 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://akihair61.github.io/emma-carter-blog/"),
   title: "Emma Carter — Beauty & Travel in Southeast Asia",
   description: "A London girl living in Bangkok, writing honestly about beauty, hair, and finding the good stuff in Southeast Asia.",
+  alternates: { canonical: "/" },
+  openGraph: {
+    type: "website",
+    siteName: "Emma Carter",
+    locale: "en_GB",
+    url: "/",
+    title: "Emma Carter — Beauty & Travel in Southeast Asia",
+    description: "A London girl living in Bangkok, writing honestly about beauty, hair, and finding the good stuff in Southeast Asia.",
+  },
+  twitter: { card: "summary_large_image" },
+  robots: { index: true, follow: true },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

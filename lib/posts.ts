@@ -43,6 +43,240 @@ export const posts: Post[] = [
 <p>Bangkok has a large, active, and generally welcoming expat community. If you make any effort to find your people — through work, through sport, through neighbourhood — you will not be lonely for long. The city rewards engagement.</p>`,
   },
   {
+    slug: "bangkok-biyoushitsu-nihonjin-ciel",
+    title: "バンコクで日本人美容室を探している人へ——プロンポンのCielに落ち着くまで",
+    date: "2026-08-20",
+    excerpt: "バンコク在住4年目。日系美容室を転々とした私が、最終的にプロンポンのCiel Japanese Hair Studioに落ち着いた理由を正直に書きます。",
+    readTime: "6 min read",
+    tags: ["バンコク 美容室", "日本人美容師", "プロンポン"],
+    content: `<p><em>（この記事は、多くの方にお読みいただいた英語版「I Finally Found the Best Japanese Hair Salon in Bangkok」の日本語版です）</em></p>
+
+<p>バンコクに住む日本人にとって「美容室どこ行ってる？」は定番の話題です。プロンポンやトンローには日系サロンがたくさんあって、正直どこも一定レベル以上。それでも私が最終的にCiel Japanese Hair Studio by Akiに落ち着いたのには、はっきりした理由があります。</p>
+
+<h2>場所はプロンポン駅から徒歩2〜3分</h2>
+
+<p>お店はスクンビット・ソイ24のアリストンホテル2階。BTSプロンポン駅からエンポリアムの前を通って徒歩2〜3分です。店内はグレーと白で統一されていて、余計な物がない。「音」も静かで、日本の上質なサロンにいる感覚になります。</p>
+
+<h2>日本の国家資格を持つサロン</h2>
+
+<p>Cielはタイでは数少ない、日本の美容師免許を持つスタイリストが施術する日系サロンです。日本語・タイ語・英語のトリリンガル対応で、カウンセリングが丁寧。バンコクの湿気や硬水で髪がどう変わったか、家でどう扱っているかまで聞いてから施術に入ります。</p>
+
+<h2>カラーと縮毛矯正が特に強い</h2>
+
+<p>Cielの看板はカラーです。ハイトーンやバレイヤージュ、白髪ぼかしまで、日本のカラー剤と技術でやってくれるので、仕上がりの透明感が違います。バンコクの日差しで褪色しやすい人向けの色設計までしてくれるのは、ここだけでした。縮毛矯正とTOKIOトリートメント（インカラミ）、日本式ヘッドスパもあります。ヘッドスパは私の毎月の楽しみになっています。</p>
+
+<h2>料金の目安</h2>
+
+<p>カット฿1,200〜、カラーやトリートメントはメニューによりますが、日系サロンの相場内です。LINE（@ciel.hair）やウェブサイトから日本語で予約できます。</p>
+
+<h2>まとめ</h2>
+
+<p>「バンコク 美容室 日本人」で検索してこの記事にたどり着いた方へ。プロンポン近辺で迷っているなら、一度Cielのカウンセリングを受けてみてください。押し売りが一切なく、髪の状態を一緒に整えていくスタイルなので、長く通える美容室を探している人にこそ合うと思います。</p>
+
+<div style="border:1px solid #e8e4df;padding:24px 28px;margin-top:32px;background:#faf9f7;">
+<p style="font-size:13px;text-transform:uppercase;letter-spacing:0.1em;color:#78716c;margin:0 0 12px 0;">Ciel Japanese Hair Studio by Aki</p>
+<p style="margin:0 0 16px 0;font-size:14px;color:#57534e;">アリストンホテル2F・スクンビット ソイ24（BTSプロンポン徒歩2分）</p>
+<div style="display:flex;flex-wrap:wrap;gap:10px;">
+<a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">予約する</a>
+<a href="https://www.instagram.com/aki_hair_ciel789/" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">@aki_hair_ciel789</a>
+</div>
+</div>`,
+  },
+  {
+    slug: "ran-tham-phom-yipun-sukhumvit-ciel",
+    title: "รีวิว Ciel Japanese Hair Studio — ร้านทำผมญี่ปุ่นแท้ย่านสุขุมวิท (BTS พร้อมพงษ์)",
+    date: "2026-08-22",
+    excerpt: "ตามหาร้านทำผมญี่ปุ่นแท้ในกรุงเทพฯ มานาน สุดท้ายมาจบที่ Ciel ร้านของช่างผมลูกครึ่งญี่ปุ่น-ไทยที่พร้อมพงษ์ รีวิวตรง ๆ จากคนที่ไปมาแล้วหลายครั้ง",
+    readTime: "6 min read",
+    tags: ["ร้านทำผมญี่ปุ่น", "สุขุมวิท", "พร้อมพงษ์"],
+    content: `<p><em>(บทความนี้เป็นฉบับภาษาไทยของรีวิวภาษาอังกฤษ "I Finally Found the Best Japanese Hair Salon in Bangkok")</em></p>
+
+<p>ในกรุงเทพฯ มีร้านทำผม "สไตล์ญี่ปุ่น" เยอะมาก แต่ร้านที่ช่างเป็นช่างญี่ปุ่นจริง ๆ ที่ได้ใบประกอบวิชาชีพจากญี่ปุ่นมีไม่กี่ร้าน หนึ่งในนั้นคือ Ciel Japanese Hair Studio ย่านพร้อมพงษ์ ที่ฉันไปประจำจนต้องเขียนรีวิว</p>
+
+<h2>ร้านอยู่ไหน เดินทางยังไง</h2>
+
+<p>ร้านอยู่ชั้น 2 ของโรงแรม Ariston ซอยสุขุมวิท 24 เดินจาก BTS พร้อมพงษ์แค่ 2-3 นาที ใกล้ Emporium ตัวร้านโทนสีเทา-ขาว สะอาด เงียบ บรรยากาศเหมือนซาลอนในโตเกียว</p>
+
+<h2>จุดเด่นของร้าน</h2>
+
+<p>Ciel เป็นร้านที่ช่างผ่านระบบใบประกอบวิชาชีพช่างผมของญี่ปุ่นโดยตรง สื่อสารได้ทั้งไทย ญี่ปุ่น อังกฤษ ก่อนตัดจะมี counseling ละเอียดมาก ถามสภาพผม อากาศ ความชื้น ผลิตภัณฑ์ที่ใช้อยู่ แล้วค่อยออกแบบทรง</p>
+
+<h2>เด่นเรื่องสีผมและยืดผมญี่ปุ่น</h2>
+
+<p>จุดแข็งของร้านคือการทำสี ทั้งไฮไลท์ บาลายาจ สีโทนสว่าง ใช้น้ำยาจากญี่ปุ่น สีออกมาเนียนเป็นธรรมชาติ ไม่เหลืองแสบตา นอกจากนี้มียืดวอลลุ่มแบบญี่ปุ่น ทรีตเมนต์ TOKIO Inkarami ที่ดังมากในญี่ปุ่น และเฮดสปาแบบญี่ปุ่นที่ฉันติดใจจนต้องไปทุกเดือน</p>
+
+<h2>ราคา</h2>
+
+<p>ตัดผมเริ่มต้น ฿1,200 ทำสีและทรีตเมนต์ตามเมนู ถือว่าสมเหตุสมผลสำหรับช่างญี่ปุ่นแท้ จองคิวได้ทางเว็บไซต์หรือ LINE (@ciel.hair) มีพนักงานคนไทยคอยดูแล คุยภาษาไทยได้สบาย</p>
+
+<h2>สรุป</h2>
+
+<p>ถ้ากำลังหา ร้านทำผมญี่ปุ่น ย่านสุขุมวิท ที่ช่างเป็นญี่ปุ่นจริง counseling ละเอียด และไม่ยัดเยียดขายคอร์ส แนะนำให้ลอง Ciel สักครั้ง แล้วจะเข้าใจว่าทำไมรีวิว Google ถึงเต็ม 5 ดาว</p>
+
+<div style="border:1px solid #e8e4df;padding:24px 28px;margin-top:32px;background:#faf9f7;">
+<p style="font-size:13px;text-transform:uppercase;letter-spacing:0.1em;color:#78716c;margin:0 0 12px 0;">Ciel Japanese Hair Studio by Aki</p>
+<p style="margin:0 0 16px 0;font-size:14px;color:#57534e;">ชั้น 2 โรงแรม Ariston ซอยสุขุมวิท 24 (BTS พร้อมพงษ์ 2 นาที)</p>
+<div style="display:flex;flex-wrap:wrap;gap:10px;">
+<a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">จองคิว</a>
+<a href="https://www.instagram.com/aki_hair_ciel789/" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">@aki_hair_ciel789</a>
+</div>
+</div>`,
+  },
+  {
+    slug: "yued-phom-yipun-bangkok",
+    title: "ยืดผมญี่ปุ่น (ยืดวอลลุ่ม) ในกรุงเทพฯ ต่างจากยืดทั่วไปยังไง — รีวิวจากประสบการณ์จริง",
+    date: "2026-08-24",
+    excerpt: "ยืดผมญี่ปุ่นหรือยืดวอลลุ่มคืออะไร ทำไมผมถึงตรงสวยเป็นธรรมชาติไม่ลีบแบน และทำที่ไหนดีในกรุงเทพฯ โดยช่างญี่ปุ่นแท้",
+    readTime: "5 min read",
+    tags: ["ยืดผมญี่ปุ่น", "ยืดวอลลุ่ม", "กรุงเทพ"],
+    content: `<p>ใครผมหยิก ผมฟู หรือชี้ฟูเพราะความชื้นของกรุงเทพฯ น่าจะเคยได้ยินคำว่า "ยืดผมญี่ปุ่น" หรือ "ยืดวอลลุ่ม" (縮毛矯正 / Japanese Straightening) มาบ้าง วันนี้จะเล่าจากประสบการณ์จริงว่ามันต่างจากยืดผมทั่วไปยังไง</p>
+
+<h2>ยืดญี่ปุ่นต่างจากยืดทั่วไปตรงไหน</h2>
+
+<p>การยืดผมแบบญี่ปุ่นใช้น้ำยาสองขั้นตอนร่วมกับการรีดด้วยเทคนิคเฉพาะ ผลลัพธ์คือผมตรง "แบบมีวอลลุ่ม" โคนไม่ลีบแบน ปลายไม่แข็งทื่อ ดูเป็นผมสวยธรรมชาติ ไม่ใช่ผมตรงเหมือนไม้บรรทัด จุดสำคัญอยู่ที่การอ่านสภาพเส้นผมและการควบคุมเวลาน้ำยา ซึ่งเป็นสิ่งที่ช่างญี่ปุ่นฝึกกันอย่างหนัก</p>
+
+<h2>ทำที่ไหนในกรุงเทพฯ</h2>
+
+<p>ร้านที่ฉันไปประจำคือ Ciel Japanese Hair Studio by Aki ย่านพร้อมพงษ์ (ชั้น 2 โรงแรม Ariston ซอยสุขุมวิท 24) จุดเด่นคือมาตรฐานช่างแบบญี่ปุ่น (ใบประกอบวิชาชีพจากญี่ปุ่น) ก่อนยืดจะเช็คประวัติการทำเคมีของผมอย่างละเอียด แล้วเลือกความแรงน้ำยาเฉพาะแต่ละโซนของหัว ผลคือผมตรงสวยแต่ยังนุ่ม ไม่เสีย</p>
+
+<h2>ดูแลยังไงหลังยืด</h2>
+
+<p>หลังยืด 48 ชั่วโมงแรกอย่าเพิ่งมัดผมหรือเกี่ยวผมหลังหู ใช้แชมพูสูตรอ่อนโยน และถ้าเสริมด้วยทรีตเมนต์ TOKIO Inkarami ผมจะยิ่งอยู่ทรงและเงานานขึ้น ที่ร้านมีบริการครบทั้งหมดนี้ และคุยภาษาไทยได้สบายเพราะมีทีมงานคนไทย</p>
+
+<div style="border:1px solid #e8e4df;padding:24px 28px;margin-top:32px;background:#faf9f7;">
+<p style="font-size:13px;text-transform:uppercase;letter-spacing:0.1em;color:#78716c;margin:0 0 12px 0;">Ciel Japanese Hair Studio by Aki</p>
+<p style="margin:0 0 16px 0;font-size:14px;color:#57534e;">ชั้น 2 โรงแรม Ariston ซอยสุขุมวิท 24 (BTS พร้อมพงษ์ 2 นาที)</p>
+<div style="display:flex;flex-wrap:wrap;gap:10px;">
+<a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">จองคิว</a>
+<a href="https://www.instagram.com/aki_hair_ciel789/" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">@aki_hair_ciel789</a>
+</div>
+</div>`,
+  },
+  {
+    slug: "tokio-inkarami-treatment-th",
+    title: "TOKIO Inkarami คืออะไร — ทรีตเมนต์ซ่อมผมอันดับ 1 จากญี่ปุ่น หาทำได้ในกรุงเทพฯ",
+    date: "2026-08-26",
+    excerpt: "รีวิวทรีตเมนต์ TOKIO Inkarami ที่ดังที่สุดในญี่ปุ่น ซ่อมผมเสียจากการฟอกและทำสี ตอนนี้ทำได้ที่ร้านช่างญี่ปุ่นแท้ย่านพร้อมพงษ์",
+    readTime: "5 min read",
+    tags: ["TOKIO Inkarami", "ทรีตเมนต์ผม", "กรุงเทพ"],
+    content: `<p>ถ้าเคยฟอกผม ทำสีบ่อย หรือยืดจนผมเสีย แล้วลองทรีตเมนต์มาหลายยี่ห้อแต่ไม่เห็นผล อยากให้รู้จัก TOKIO Inkarami (โตเกียว อินคารามิ) ทรีตเมนต์ในร้านซาลอนที่ได้รับการยอมรับมากที่สุดตัวหนึ่งของญี่ปุ่น</p>
+
+<h2>ทำไม TOKIO ถึงต่างจากทรีตเมนต์ทั่วไป</h2>
+
+<p>ทรีตเมนต์ทั่วไปเคลือบผิวผมให้ลื่นชั่วคราว แต่ TOKIO ใช้เทคโนโลยี Inkarami ที่ให้เคราตินโมเลกุลต่างขนาดเข้าไป "จับตัวกัน" ภายในเส้นผม เหมือนสร้างโครงข่ายซ่อมแซมจากข้างใน ญี่ปุ่นเคลมการคืนความแข็งแรงถึง 140% และที่สำคัญคือผลอยู่นานเป็นเดือน ไม่ใช่หลุดหลังสระสองครั้ง</p>
+
+<h2>เหมาะกับใคร</h2>
+
+<p>คนที่ฟอกผมทำสีสว่าง คนที่ยืดหรือดัดเป็นประจำ และคนผมยาวที่ปลายผมเริ่มบาง แตก ชี้ฟู ยิ่งทำคู่กับการทำสีในวันเดียวกัน สีจะติดทนและเงากว่าปกติชัดเจน</p>
+
+<h2>ทำได้ที่ไหนในกรุงเทพฯ</h2>
+
+<p>TOKIO เป็นแบรนด์ที่ร้านต้องได้รับอนุญาตถึงจะให้บริการได้ ร้านที่ฉันทำประจำคือ Ciel Japanese Hair Studio by Aki พร้อมพงษ์ ซึ่งใช้ผลิตภัณฑ์ TOKIO ของแท้จากญี่ปุ่นครบไลน์ โดยทีมช่างที่ใช้ผลิตภัณฑ์นี้มาตั้งแต่สมัยทำงานที่ญี่ปุ่น มีขายทั้งแบบทำในร้านและ TOKIO Home สำหรับดูแลต่อที่บ้าน</p>
+
+<div style="border:1px solid #e8e4df;padding:24px 28px;margin-top:32px;background:#faf9f7;">
+<p style="font-size:13px;text-transform:uppercase;letter-spacing:0.1em;color:#78716c;margin:0 0 12px 0;">Ciel Japanese Hair Studio by Aki</p>
+<p style="margin:0 0 16px 0;font-size:14px;color:#57534e;">ชั้น 2 โรงแรม Ariston ซอยสุขุมวิท 24 (BTS พร้อมพงษ์ 2 นาที)</p>
+<div style="display:flex;flex-wrap:wrap;gap:10px;">
+<a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">จองคิว</a>
+<a href="https://www.instagram.com/aki_hair_ciel789/" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">@aki_hair_ciel789</a>
+</div>
+</div>`,
+  },
+  {
+    slug: "head-spa-yipun-bangkok-th",
+    title: "เฮดสปาญี่ปุ่นในกรุงเทพฯ — ศาสตร์ผ่อนคลายหนังศีรษะที่ควรลองสักครั้งในชีวิต",
+    date: "2026-08-27",
+    excerpt: "เฮดสปาสไตล์ญี่ปุ่นต่างจากสระผมนวดหัวทั่วไปยังไง รีวิวจากคนที่ไปทำทุกเดือนที่ร้านช่างญี่ปุ่นย่านพร้อมพงษ์",
+    readTime: "5 min read",
+    tags: ["เฮดสปา", "ร้านทำผมญี่ปุ่น", "พร้อมพงษ์"],
+    content: `<p>ช่วงนี้เฮดสปาญี่ปุ่น (Japanese Head Spa) กำลังเป็นไวรัลทั่วโลก คลิปที่คนนอนหลับระหว่างทำมียอดวิวเป็นล้าน แต่รู้ไหมว่าในกรุงเทพฯ ก็มีร้านที่ทำเฮดสปาแบบญี่ปุ่นแท้ ๆ โดยช่างที่ฝึกจากญี่ปุ่นโดยตรง</p>
+
+<h2>เฮดสปาญี่ปุ่นต่างจากสระนวดทั่วไปยังไง</h2>
+
+<p>สระผมร้านทั่วไปคือ "สระ + นวดแรง ๆ" แต่เฮดสปาญี่ปุ่นเป็นทรีตเมนต์หนังศีรษะเต็มรูปแบบ เริ่มจากวิเคราะห์สภาพหนังศีรษะ ทำความสะอาดรูขุมขนด้วยคลีนซิ่งเฉพาะ นวดกดจุดตามแนวกล้ามเนื้อศีรษะ ต้นคอ และบ่า จังหวะการนวดนุ่มลึกจนหลับจริง ๆ จบด้วยทรีตเมนต์บำรุง ตื่นมาหัวเบา ตาโล่ง เหมือนได้รีเซ็ตสมอง</p>
+
+<h2>ประโยชน์ที่สัมผัสได้จริง</h2>
+
+<p>สำหรับคนกรุงเทพฯ ที่เครียด นอนน้อย จ้องจอทั้งวัน เฮดสปาช่วยเรื่องอาการตึงหัว ตึงบ่า และยังดีต่อสุขภาพหนังศีรษะระยะยาว ซึ่งเป็นพื้นฐานของผมที่แข็งแรง ฉันทำเดือนละครั้งจนกลายเป็นกิจวัตรที่ตัดไม่ได้แล้ว</p>
+
+<h2>ทำได้ที่ไหน</h2>
+
+<p>ร้านที่แนะนำคือ Ciel Japanese Hair Studio by Aki พร้อมพงษ์ มีคอร์สเฮดสปาญี่ปุ่นหลายระดับตั้งแต่ 60-90 นาที ทำในห้องบรรยากาศเงียบสงบ และจองคู่กับตัดหรือทำสีในวันเดียวกันได้เลย</p>
+
+<div style="border:1px solid #e8e4df;padding:24px 28px;margin-top:32px;background:#faf9f7;">
+<p style="font-size:13px;text-transform:uppercase;letter-spacing:0.1em;color:#78716c;margin:0 0 12px 0;">Ciel Japanese Hair Studio by Aki</p>
+<p style="margin:0 0 16px 0;font-size:14px;color:#57534e;">ชั้น 2 โรงแรม Ariston ซอยสุขุมวิท 24 (BTS พร้อมพงษ์ 2 นาที)</p>
+<div style="display:flex;flex-wrap:wrap;gap:10px;">
+<a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">จองคิว</a>
+<a href="https://www.instagram.com/aki_hair_ciel789/" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">@aki_hair_ciel789</a>
+</div>
+</div>`,
+  },
+  {
+    slug: "tham-si-phom-yipun-balayage-bangkok",
+    title: "ทำสีผมสไตล์ญี่ปุ่นในกรุงเทพฯ — บาลายาจ ไฮไลท์ สีโทนสว่าง โดยช่างสีระดับท็อป",
+    date: "2026-08-25",
+    excerpt: "ทำไมสีผมที่ทำโดยช่างญี่ปุ่นถึงเนียนกว่า ไม่เหลืองไว รีวิวทำบาลายาจและสีโทนสว่างที่ Ciel ร้านทำผมญี่ปุ่นย่านพร้อมพงษ์ที่เชี่ยวชาญงานสีโดยเฉพาะ",
+    readTime: "6 min read",
+    tags: ["ทำสีผม", "บาลายาจ", "ไฮไลท์", "กรุงเทพ"],
+    content: `<p>เรื่องหนึ่งที่คนทำสีผมบ่อยจะเข้าใจดี คือ "สีสวยวันแรก" ใคร ๆ ก็ทำได้ แต่ "สีที่ยังสวยในสัปดาห์ที่หก" คือของจริง และนี่คือจุดที่การทำสีสไตล์ญี่ปุ่นต่างจากที่อื่นชัดที่สุด</p>
+
+<h2>สีสไตล์ญี่ปุ่นต่างยังไง</h2>
+
+<p>ช่างสีญี่ปุ่นถูกฝึกให้คิดเรื่อง "เนื้อสีใต้เส้นผม" (undertone) ก่อนเสมอ ผมคนเอเชียมีเม็ดสีแดง-ส้มเยอะ ถ้าฟอกหรือย้อมโดยไม่คุมอันเดอร์โทน สีจะออกเหลืองทองแบบไม่ตั้งใจภายในไม่กี่สัปดาห์ เทคนิคญี่ปุ่นจะคำนวณการตัดโทนตั้งแต่สูตรผสม ทำให้สีที่ออกมาเนียน มีมิติ และซีดอย่างสวย ไม่ใช่ซีดอย่างเหลือง</p>
+
+<h2>บาลายาจและไฮไลท์ที่หน้าไม่โทรม</h2>
+
+<p>อีกจุดแข็งคือการวางไฮไลท์แบบอ่านรูปหน้าและการแสกผม (face-framing) ที่ Ciel ช่างจะดูสไตล์การแต่งตัว สีผิว และวิธีมัดผมประจำวันก่อนวางแผนสี ผลคือบาลายาจที่โตไปกับผม รอยต่อไม่ชัด ไม่ต้องรีทัชบ่อย เหมาะกับคนกรุงเทพฯ ที่ผมโดนแดดทุกวัน</p>
+
+<h2>ทำไม Ciel ถึงขึ้นชื่อเรื่องงานสี</h2>
+
+<p>Ciel เป็นร้านทำผมญี่ปุ่นที่วางตัวเองเป็นร้านเชี่ยวชาญงานสีโดยเฉพาะ ทีมช่างผ่านการฝึกแบบญี่ปุ่น ทั้งไฮโทน สีหม่น สีแฟชั่น และการแก้สีที่พังจากร้านอื่น น้ำยาที่ใช้นำเข้าจากญี่ปุ่น และทุกคอร์สสีทำคู่กับทรีตเมนต์ TOKIO ได้เพื่อให้ผมไม่เสีย รีวิว Google ของร้านเต็ม 5 ดาวจากลูกค้าทั้งไทย ญี่ปุ่น และต่างชาติ</p>
+
+<h2>ราคาและการจอง</h2>
+
+<p>คอร์สสีเริ่มต้นหลักพันต้น ๆ ขึ้นกับความยาวผมและเทคนิค จองผ่านเว็บไซต์ได้ 24 ชั่วโมง เลือกคุยไทย อังกฤษ หรือญี่ปุ่นได้เลย</p>
+
+<div style="border:1px solid #e8e4df;padding:24px 28px;margin-top:32px;background:#faf9f7;">
+<p style="font-size:13px;text-transform:uppercase;letter-spacing:0.1em;color:#78716c;margin:0 0 12px 0;">Ciel Japanese Hair Studio by Aki</p>
+<p style="margin:0 0 16px 0;font-size:14px;color:#57534e;">ชั้น 2 โรงแรม Ariston ซอยสุขุมวิท 24 (BTS พร้อมพงษ์ 2 นาที)</p>
+<div style="display:flex;flex-wrap:wrap;gap:10px;">
+<a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">จองคิว</a>
+<a href="https://www.instagram.com/aki_hair_ciel789/" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">@aki_hair_ciel789</a>
+</div>
+</div>`,
+  },
+  {
+    slug: "bangkok-color-jouzu-biyoushitsu",
+    title: "バンコクでカラーが上手い美容室を探して3年——結論はプロンポンのCielでした",
+    date: "2026-08-27",
+    excerpt: "ハイトーンもバレイヤージュも白髪ぼかしも。バンコクの強い日差しと湿気で褪色に悩む人にこそ読んでほしい、カラーに強い日系サロンCielの話。",
+    readTime: "6 min read",
+    tags: ["バンコク カラー", "バレイヤージュ", "美容室"],
+    content: `<p>バンコクでカラーをすると、日本でやっていた時より圧倒的に早く色が抜けます。強烈な紫外線、汗、毎日のシャワー。「入れた時は可愛いのに2週間で黄ばむ」——この悩みを解決してくれたのが、プロンポンのCiel Japanese Hair Studioでした。</p>
+
+<h2>バンコクの環境を前提に色を設計してくれる</h2>
+
+<p>Cielは日本で経験を積んだスタイリストが手がけるカラー特化型の日系サロンで、バンコクの気候でどう褪色していくかまで計算して調合します。「退色後も可愛い色」を最初から狙って作るので、6週間後の髪を見て違いがわかります。ハイトーン、バレイヤージュ、ハイライト、白髪ぼかしまで、日本のカラー剤を使った施術です。</p>
+
+<h2>ダメージを残さない仕組み</h2>
+
+<p>カラーと同時にTOKIOインカラミトリートメント（日本で最も評価の高いサロントリートメント）を組み合わせられるのも大きい。ブリーチを使う場合も髪の状態を見ながら塗り分けるので、「色は可愛いけど髪はボロボロ」になりません。</p>
+
+<h2>他店で失敗したカラーのお直しも</h2>
+
+<p>ムラになった、思ったより緑になった、金髪になりすぎた——そういう「カラーのお直し」の駆け込みも多いそうです。カウンセリングは日本語でじっくり。プロンポン駅から徒歩2分なので、駐在の方も通いやすい立地です。</p>
+
+<div style="border:1px solid #e8e4df;padding:24px 28px;margin-top:32px;background:#faf9f7;">
+<p style="font-size:13px;text-transform:uppercase;letter-spacing:0.1em;color:#78716c;margin:0 0 12px 0;">Ciel Japanese Hair Studio by Aki</p>
+<p style="margin:0 0 16px 0;font-size:14px;color:#57534e;">アリストンホテル2F・スクンビット ソイ24（BTSプロンポン徒歩2分）</p>
+<div style="display:flex;flex-wrap:wrap;gap:10px;">
+<a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">予約する</a>
+<a href="https://www.instagram.com/aki_hair_ciel789/" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">@aki_hair_ciel789</a>
+</div>
+</div>`,
+  },
+  {
     slug: "best-japanese-hair-salon-bangkok",
     title: "I Finally Found the Best Japanese Hair Salon in Bangkok",
     date: "2025-11-15",
@@ -75,7 +309,7 @@ export const posts: Post[] = [
 <p style="font-size:13px;text-transform:uppercase;letter-spacing:0.1em;color:#78716c;margin:0 0 12px 0;">Ciel Japanese Hair Studio by Aki</p>
 <p style="margin:0 0 16px 0;font-size:14px;color:#57534e;">2F Ariston Hotel, Sukhumvit Soi 24, Phrom Phong · 3 min from BTS Phrom Phong</p>
 <div style="display:flex;flex-wrap:wrap;gap:10px;">
-<a href="https://www.fresha.com/ja/a/ciel-japanese-hair-studio-by-aki-khlong-toei-19-soi-sukhumvit-24-yyuld3cq" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">予約する / Book Now</a>
+<a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">予約する / Book Now</a>
 <a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">ウェブサイト / Website</a>
 <a href="https://www.instagram.com/aki_hair_ciel789/" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">@aki_hair_ciel789</a>
 </div>
@@ -118,7 +352,7 @@ export const posts: Post[] = [
 <p style="font-size:13px;text-transform:uppercase;letter-spacing:0.1em;color:#78716c;margin:0 0 12px 0;">Ciel Japanese Hair Studio by Aki</p>
 <p style="margin:0 0 16px 0;font-size:14px;color:#57534e;">2F Ariston Hotel, Sukhumvit Soi 24, Phrom Phong · 3 min from BTS Phrom Phong</p>
 <div style="display:flex;flex-wrap:wrap;gap:10px;">
-<a href="https://www.fresha.com/ja/a/ciel-japanese-hair-studio-by-aki-khlong-toei-19-soi-sukhumvit-24-yyuld3cq" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">予約する / Book Now</a>
+<a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">予約する / Book Now</a>
 <a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">ウェブサイト / Website</a>
 <a href="https://www.instagram.com/aki_hair_ciel789/" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">@aki_hair_ciel789</a>
 </div>
@@ -157,7 +391,7 @@ export const posts: Post[] = [
 <p style="font-size:13px;text-transform:uppercase;letter-spacing:0.1em;color:#78716c;margin:0 0 12px 0;">Ciel Japanese Hair Studio by Aki</p>
 <p style="margin:0 0 16px 0;font-size:14px;color:#57534e;">2F Ariston Hotel, Sukhumvit Soi 24, Phrom Phong · 3 min from BTS Phrom Phong</p>
 <div style="display:flex;flex-wrap:wrap;gap:10px;">
-<a href="https://www.fresha.com/ja/a/ciel-japanese-hair-studio-by-aki-khlong-toei-19-soi-sukhumvit-24-yyuld3cq" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">予約する / Book Now</a>
+<a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">予約する / Book Now</a>
 <a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">ウェブサイト / Website</a>
 <a href="https://www.instagram.com/aki_hair_ciel789/" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">@aki_hair_ciel789</a>
 </div>
@@ -196,7 +430,7 @@ export const posts: Post[] = [
 <p style="font-size:13px;text-transform:uppercase;letter-spacing:0.1em;color:#78716c;margin:0 0 12px 0;">Ciel Japanese Hair Studio by Aki</p>
 <p style="margin:0 0 16px 0;font-size:14px;color:#57534e;">2F Ariston Hotel, Sukhumvit Soi 24, Phrom Phong · 3 min from BTS Phrom Phong</p>
 <div style="display:flex;flex-wrap:wrap;gap:10px;">
-<a href="https://www.fresha.com/ja/a/ciel-japanese-hair-studio-by-aki-khlong-toei-19-soi-sukhumvit-24-yyuld3cq" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">予約する / Book Now</a>
+<a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">予約する / Book Now</a>
 <a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">ウェブサイト / Website</a>
 <a href="https://www.instagram.com/aki_hair_ciel789/" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">@aki_hair_ciel789</a>
 </div>

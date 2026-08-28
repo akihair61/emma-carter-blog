@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+8:I[106,["/emma-carter-blog/_next/static/chunks/3pxeb804t_l3p.js","/emma-carter-blog/_next/static/chunks/2vdwfdlf6fh5h.js","/emma-carter-blog/_next/static/chunks/23dzwwqiz7pdq.js"],""]
+9:I[97172,["/emma-carter-blog/_next/static/chunks/3pxeb804t_l3p.js","/emma-carter-blog/_next/static/chunks/2vdwfdlf6fh5h.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80","image"]
+:HL["https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=80&q=80","image"]
+:HL["https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=1200&q=80","image"]
+2:Td98,<p><em>（この記事は、多くの方にお読みいただいた英語版「I Finally Found the Best Japanese Hair Salon in Bangkok」の日本語版です）</em></p>
+
+<p>バンコクに住む日本人にとって「美容室どこ行ってる？」は定番の話題です。プロンポンやトンローには日系サロンがたくさんあって、正直どこも一定レベル以上。それでも私が最終的にCiel Japanese Hair Studio by Akiに落ち着いたのには、はっきりした理由があります。</p>
+
+<h2>場所はプロンポン駅から徒歩2〜3分</h2>
+
+<p>お店はスクンビット・ソイ24のアリストンホテル2階。BTSプロンポン駅からエンポリアムの前を通って徒歩2〜3分です。店内はグレーと白で統一されていて、余計な物がない。「音」も静かで、日本の上質なサロンにいる感覚になります。</p>
+
+<h2>日本の国家資格を持つサロン</h2>
+
+<p>Cielはタイでは数少ない、日本の美容師免許を持つスタイリストが施術する日系サロンです。日本語・タイ語・英語のトリリンガル対応で、カウンセリングが丁寧。バンコクの湿気や硬水で髪がどう変わったか、家でどう扱っているかまで聞いてから施術に入ります。</p>
+
+<h2>カラーと縮毛矯正が特に強い</h2>
+
+<p>Cielの看板はカラーです。ハイトーンやバレイヤージュ、白髪ぼかしまで、日本のカラー剤と技術でやってくれるので、仕上がりの透明感が違います。バンコクの日差しで褪色しやすい人向けの色設計までしてくれるのは、ここだけでした。縮毛矯正とTOKIOトリートメント（インカラミ）、日本式ヘッドスパもあります。ヘッドスパは私の毎月の楽しみになっています。</p>
+
+<h2>料金の目安</h2>
+
+<p>カット฿1,200〜、カラーやトリートメントはメニューによりますが、日系サロンの相場内です。LINE（@ciel.hair）やウェブサイトから日本語で予約できます。</p>
+
+<h2>まとめ</h2>
+
+<p>「バンコク 美容室 日本人」で検索してこの記事にたどり着いた方へ。プロンポン近辺で迷っているなら、一度Cielのカウンセリングを受けてみてください。押し売りが一切なく、髪の状態を一緒に整えていくスタイルなので、長く通える美容室を探している人にこそ合うと思います。</p>
+
+<div style="border:1px solid #e8e4df;padding:24px 28px;margin-top:32px;background:#faf9f7;">
+<p style="font-size:13px;text-transform:uppercase;letter-spacing:0.1em;color:#78716c;margin:0 0 12px 0;">Ciel Japanese Hair Studio by Aki</p>
+<p style="margin:0 0 16px 0;font-size:14px;color:#57534e;">アリストンホテル2F・スクンビット ソイ24（BTSプロンポン徒歩2分）</p>
+<div style="display:flex;flex-wrap:wrap;gap:10px;">
+<a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">予約する</a>
+<a href="https://www.instagram.com/aki_hair_ciel789/" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">@aki_hair_ciel789</a>
+</div>
+</div>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"バンコクで日本人美容室を探している人へ——プロンポンのCielに落ち着くまで\",\"description\":\"バンコク在住4年目。日系美容室を転々とした私が、最終的にプロンポンのCiel Japanese Hair Studioに落ち着いた理由を正直に書きます。\",\"image\":\"https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80\",\"datePublished\":\"2026-08-20\",\"dateModified\":\"2026-08-20\",\"keywords\":\"バンコク 美容室, 日本人美容師, プロンポン\",\"inLanguage\":\"en-GB\",\"author\":{\"@type\":\"Person\",\"name\":\"Emma Carter\",\"url\":\"https://akihair61.github.io/emma-carter-blog/about\"},\"publisher\":{\"@type\":\"Person\",\"name\":\"Emma Carter\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://akihair61.github.io/emma-carter-blog/blog/bangkok-biyoushitsu-nihonjin-ciel\"}}"}}],["$","div",null,{"className":"relative h-[60vh] min-h-[400px] overflow-hidden","children":[["$","img",null,{"src":"https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80","alt":"バンコクで日本人美容室を探している人へ——プロンポンのCielに落ち着くまで","className":"w-full h-full object-cover"}],["$","div",null,{"className":"absolute inset-0","style":{"background":"linear-gradient(to top, rgba(0,0,0,0.7) 0%, transparent 60%)"}}]]}],["$","div",null,{"className":"max-w-3xl mx-auto px-6 -mt-24 relative z-10","children":["$","div",null,{"className":"bg-white p-10 shadow-sm","children":[["$","div",null,{"className":"flex flex-wrap gap-2 mb-4","children":[["$","span","バンコク 美容室",{"className":"text-xs uppercase tracking-widest text-stone-400","children":["バンコク 美容室"," ·"]}],["$","span","日本人美容師",{"className":"text-xs uppercase tracking-widest text-stone-400","children":["日本人美容師"," ·"]}],["$","span","プロンポン",{"className":"text-xs uppercase tracking-widest text-stone-400","children":["プロンポン"," ·"]}]]}],["$","h1",null,{"className":"font-serif text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-6","children":"バンコクで日本人美容室を探している人へ——プロンポンのCielに落ち着くまで"}],["$","div",null,{"className":"flex items-center gap-4 pt-4 border-t border-stone-100","children":[["$","img",null,{"src":"https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=80&q=80","alt":"Emma Carter","className":"w-12 h-12 rounded-full object-cover"}],["$","div",null,{"children":[["$","p",null,{"className":"text-sm font-medium text-stone-800","children":"Emma Carter"}],["$","p",null,{"className":"text-xs text-stone-400 font-light","children":["20 August 2026"," · ","6 min read"]}]]}]]}]]}]}],["$","div",null,{"className":"max-w-3xl mx-auto px-6 mt-10","children":[["$","div",null,{"className":"bg-white px-10 py-8 shadow-sm","children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}],"$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Er8iFPChzIkV38nIYgEZG"}
+3:["$","div",null,{"className":"mt-10 pt-8 border-t border-stone-100 flex flex-wrap gap-2","children":[["$","span","バンコク 美容室",{"className":"text-xs bg-stone-100 text-stone-500 px-3 py-1.5 uppercase tracking-wide","children":"バンコク 美容室"}],["$","span","日本人美容師",{"className":"text-xs bg-stone-100 text-stone-500 px-3 py-1.5 uppercase tracking-wide","children":"日本人美容師"}],["$","span","プロンポン",{"className":"text-xs bg-stone-100 text-stone-500 px-3 py-1.5 uppercase tracking-wide","children":"プロンポン"}]]}]
+4:["$","div",null,{"className":"mt-8 mb-4","children":["$","$L8",null,{"href":"/blog","className":"text-xs uppercase tracking-widest text-stone-400 hover:text-stone-800 transition-colors","children":"← All posts"}]}]
+5:["$","section",null,{"className":"max-w-6xl mx-auto px-6 py-16 mt-8 border-t border-stone-200","children":[["$","h2",null,{"className":"font-serif text-2xl font-bold text-stone-900 mb-10","children":"More Posts"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-8","children":[["$","article","moving-to-bangkok-guide",{"className":"group","children":["$","$L8",null,{"href":"/blog/moving-to-bangkok-guide","children":[["$","div",null,{"className":"overflow-hidden mb-4","style":{"aspectRatio":"3/2"},"children":["$","img",null,{"src":"https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=1200&q=80","alt":"Moving to Bangkok: What Nobody Tells You Before You Go","className":"w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"}]}],["$","h3",null,{"className":"font-serif text-base font-bold text-stone-900 group-hover:text-stone-500 transition-colors leading-snug","children":"Moving to Bangkok: What Nobody Tells You Before You Go"}]]}]}],["$","article","ran-tham-phom-yipun-sukhumvit-ciel",{"className":"group","children":["$","$L8",null,{"href":"/blog/ran-tham-phom-yipun-sukhumvit-ciel","children":[["$","div",null,{"className":"overflow-hidden mb-4","style":{"aspectRatio":"3/2"},"children":["$","img",null,{"src":"https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80","alt":"รีวิว Ciel Japanese Hair Studio — ร้านทำผมญี่ปุ่นแท้ย่านสุขุมวิท (BTS พร้อมพงษ์)","className":"w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"}]}],["$","h3",null,{"className":"font-serif text-base font-bold text-stone-900 group-hover:text-stone-500 transition-colors leading-snug","children":"รีวิว Ciel Japanese Hair Studio — ร้านทำผมญี่ปุ่นแท้ย่านสุขุมวิท (BTS พร้อมพงษ์)"}]]}]}],["$","article","yued-phom-yipun-bangkok",{"className":"group","children":["$","$L8",null,{"href":"/blog/yued-phom-yipun-bangkok","children":[["$","div",null,{"className":"overflow-hidden mb-4","style":{"aspectRatio":"3/2"},"children":["$","img",null,{"src":"https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80","alt":"ยืดผมญี่ปุ่น (ยืดวอลลุ่ม) ในกรุงเทพฯ ต่างจากยืดทั่วไปยังไง — รีวิวจากประสบการณ์จริง","className":"w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"}]}],["$","h3",null,{"className":"font-serif text-base font-bold text-stone-900 group-hover:text-stone-500 transition-colors leading-snug","children":"ยืดผมญี่ปุ่น (ยืดวอลลุ่ม) ในกรุงเทพฯ ต่างจากยืดทั่วไปยังไง — รีวิวจากประสบการณ์จริง"}]]}]}]]}]]}]
+6:["$","script","script-0",{"src":"/emma-carter-blog/_next/static/chunks/23dzwwqiz7pdq.js","async":true}]
+7:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

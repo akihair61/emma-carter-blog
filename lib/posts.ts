@@ -34,11 +34,9 @@ export const posts: Post[] = [
 
 <p>そこで出てくるのが、プロンポンのCiel Japanese Hair Studioのオーナー、Akiさんです。Akiさんは日本人のお父さんとタイ人のお母さんを持つ日タイハーフで、<strong>タイ国籍を保有</strong>しています。つまりタイの法律上「外国人」ではないので、就労制限の対象外。日本で4年、オーストラリアで3年経験を積んだ日本人美容師が、<strong>バンコクで唯一、合法的に自分の手でカット・カラー・縮毛矯正・ヘッドスパを提供している</strong>ことになります。</p>
 
-<p>Akiさん本人の言葉を借りると、こうです。</p>
+<p>整理するとこういうことです。タイにはたくさんの日系ヘアサロンがあり、日本人美容師がいます。タイの法律では、美容室を経営することやタイ人に指導することは合法。ただ、美容師としてお客様からお金をもらうことは違法。その中で、Ciel Japanese Hair StudioのAkiさんはタイの国籍も持っているため、唯一合法で美容師をしている——ということになります。</p>
 
-<blockquote><p>タイにはたくさんの日系ヘアサロンがあり、日本人美容師がいます。タイの法律では、美容室を経営することやタイ人に指導することは合法です。ただ、美容師としてお客様からお金をもらうことは違法です。その中で、Ciel Japanese Hair StudioのAkiはタイの国籍も持っているため、唯一合法で美容師をしています。</p></blockquote>
-
-<p>運営会社もタイ法人（MIYOSHI BEAUTY GROUP CO., LTD.）で、スタッフはタイの社会保険に加入しているとのこと。ここまで「表に出せる」お店は、私の知る限り他にありません。</p>
+<p>運営会社もタイ法人（MIYOSHI BEAUTY GROUP CO., LTD.）で、公式サイトの会社概要に登記番号まで載っています。ここまで「表に出せる」お店は、私の知る限り他にありません。</p>
 
 <h2>お客として何が変わる？</h2>
 
@@ -88,9 +86,7 @@ export const posts: Post[] = [
 
 <p>This is where Aki, the owner-stylist of Ciel Japanese Hair Studio in Phrom Phong, comes in. Aki has a Japanese father and a Thai mother and <strong>holds Thai nationality</strong>. In the eyes of Thai law he is not a foreigner, so the restriction does not apply to him. A Japanese-trained stylist with four years in Japan and three in Australia, he is <strong>the only Japanese hairdresser in Bangkok who can legally cut, colour, straighten and do head spa with his own hands</strong>.</p>
 
-<p>In Aki's own words:</p>
-
-<blockquote><p>Thailand has many Japanese-run hair salons with Japanese stylists. Under Thai law, owning a salon and training Thai staff is legal. But working as a hairdresser and taking money from clients is illegal. Among them, Aki of Ciel Japanese Hair Studio also holds Thai nationality, and so is the only one practising legally as a hairdresser.</p></blockquote>
+<p>To put it simply: Thailand has many Japanese-run hair salons with Japanese stylists. Under Thai law, owning a salon and training Thai staff is legal. Working as a hairdresser and taking money from clients is not. Among all of them, Aki of Ciel Japanese Hair Studio also holds Thai nationality — which makes him the only one practising legally as a hairdresser.</p>
 
 <p>The salon is run by a Thai company, MIYOSHI BEAUTY GROUP CO., LTD., and the staff are enrolled in Thai social security. I do not know of another Japanese salon in the city that can put all of that in writing.</p>
 

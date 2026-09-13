@@ -335,7 +335,9 @@ export const posts: Post[] = [
     excerpt: "After years of mediocre haircuts and colour disasters in Bangkok, I walked into Ciel Japanese Hair Studio and everything changed.",
     readTime: "7 min read",
     tags: ["Bangkok", "Hair Salon", "Ciel"],
-    content: `<p>Let me be honest with you: finding a genuinely good hair salon in Bangkok as a Western expat is one of the more quietly exhausting challenges of living here. Not impossible — but the failure rate is high, and a bad haircut in a city where you do not yet know who to ask is its own particular kind of misery.</p>
+    content: `<p><em>Related: <a href="/emma-carter-blog/blog/japanese-hairdresser-bangkok-legal-thai-law">Is your Japanese hairdresser in Bangkok working legally? What Thai law actually says</a>.</em></p>
+
+<p>Let me be honest with you: finding a genuinely good hair salon in Bangkok as a Western expat is one of the more quietly exhausting challenges of living here. Not impossible — but the failure rate is high, and a bad haircut in a city where you do not yet know who to ask is its own particular kind of misery.</p>
 
 <p>I had been living in Bangkok for three years before a friend mentioned Ciel Japanese Hair Studio by Aki. The salon is on the second floor of the Ariston Hotel on Sukhumvit Soi 24 — a three-minute walk from Emporium and BTS Phrom Phong station. When you step in, the first thing you notice is how clean and considered the space is. Everything is coordinated in grey and white. Dark styling chairs, pale walls, matte fixtures. No visual noise. It feels like a salon that takes itself seriously without needing to announce it.</p>
 
@@ -417,7 +419,9 @@ export const posts: Post[] = [
     excerpt: "A Japanese head spa is not what most people picture when they hear the word spa. It is a clinical scalp treatment, and it is one of the best things I have tried in Bangkok.",
     readTime: "6 min read",
     tags: ["Head Spa", "Bangkok", "Wellness"],
-    content: `<p>When I first heard about Japanese head spas, I pictured something vaguely luxurious and loosely defined — a nice hair wash with some extra steps. I was wrong about that. A proper Japanese head spa is a clinical treatment: a structured, methodical approach to scalp health that starts with analysis, moves through targeted treatment, and ends with massage that is as much physiological intervention as it is relaxation.</p>
+    content: `<p><em>Related: <a href="/emma-carter-blog/blog/japanese-hairdresser-bangkok-legal-thai-law">Is your Japanese hairdresser in Bangkok working legally? What Thai law actually says</a>.</em></p>
+
+<p>When I first heard about Japanese head spas, I pictured something vaguely luxurious and loosely defined — a nice hair wash with some extra steps. I was wrong about that. A proper Japanese head spa is a clinical treatment: a structured, methodical approach to scalp health that starts with analysis, moves through targeted treatment, and ends with massage that is as much physiological intervention as it is relaxation.</p>
 
 <h2>What a Japanese head spa actually involves</h2>
 
@@ -456,7 +460,9 @@ export const posts: Post[] = [
     excerpt: "Aki is the owner of Ciel Japanese Hair Studio and the only legally qualified Japanese hairdresser in Thailand. I sat down with him and asked the questions I hear most often.",
     readTime: "7 min read",
     tags: ["Interview", "Hair Tips", "Bangkok"],
-    content: `<p>I have been a client at Ciel since it opened. Over the course of several appointments, I have accumulated a lot of questions — some from my own experience, many from other expats who have heard me recommend the salon and wanted to know more. I asked Aki to answer them properly.</p>
+    content: `<p><em>Related: <a href="/emma-carter-blog/blog/japanese-hairdresser-bangkok-legal-thai-law">Is your Japanese hairdresser in Bangkok working legally? What Thai law actually says</a>.</em></p>
+
+<p>I have been a client at Ciel since it opened. Over the course of several appointments, I have accumulated a lot of questions — some from my own experience, many from other expats who have heard me recommend the salon and wanted to know more. I asked Aki to answer them properly.</p>
 
 <h2>What is the biggest mistake people make with their hair when they move to Bangkok?</h2>
 

@@ -10,6 +10,114 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: "bangkok-nihonjin-biyoushi-gouhou-thai-law",
+    title: "バンコクで日本人美容師に切ってもらうのは合法？——意外と知らないタイの法律と、唯一の例外Cielの話",
+    date: "2026-09-13",
+    excerpt: "タイでは外国人が「美容師として施術してお金をもらう」ことは法律で禁止されています。では日系サロンの日本人美容師は？ 調べて分かった仕組みと、タイ国籍を持つ唯一の日本人美容師Akiの話。",
+    readTime: "7 min read",
+    tags: ["バンコク 美容室", "日本人美容師", "タイ 法律"],
+    content: `<p>バンコクに住んで4年、日系の美容室にはずいぶんお世話になってきました。でも最近、日本人の友人にこう言われて固まったんです。「知ってた？タイって外国人が美容師やるの違法なんだよ」。え、じゃあ私がずっと切ってもらってた日本人の先生は……？ 気になって調べました。</p>
+
+<h2>タイの法律：美容師は「外国人が就けない職業」</h2>
+
+<p>結論から言うと、本当でした。タイの労働省告示（2020年）では、<strong>理容・美容（ตัดผม ดัดผม เสริมสวย）は外国人が就くことを絶対的に禁止された職業</strong>のひとつに指定されています。ワークパーミット（労働許可証）を持っていても関係ありません。外国籍の人がタイ国内でお客様の髪を切る・染める・パーマをかける行為そのものが違法です。</p>
+
+<p>罰則もちゃんとあって、働いた本人は5,000〜50,000バーツの罰金と国外退去、雇った側（サロン）は1人あたり10,000〜100,000バーツの罰金です。</p>
+
+<h2>じゃあ日系サロンの「日本人美容師」は？</h2>
+
+<p>ここが面白いところで、<strong>日本人が美容室を経営すること、タイ人スタッフに技術を指導することは合法</strong>なんです。だからバンコクの日系サロンの多くは、日本人は「オーナー」「テクニカルアドバイザー」「マネージャー」として在籍し、実際の施術はタイ人スタッフが行う——という建て付けになっています。カウンセリングだけ日本人、シャンプーから仕上げまでタイ人、というお店に心当たりがある方も多いと思います。</p>
+
+<p>そして正直に書くと、日本人が実際にハサミを持ってお金をもらっているお店もあります。それは法律上はグレーではなく、黒です。お客としては「万一トラブルになったとき、そのお店は正規に責任を取れるのか」という話にもつながります。</p>
+
+<h2>唯一の例外：タイ国籍を持つ日本人美容師</h2>
+
+<p>そこで出てくるのが、プロンポンのCiel Japanese Hair Studioのオーナー、Akiさんです。Akiさんは日本人のお父さんとタイ人のお母さんを持つ日タイハーフで、<strong>タイ国籍を保有</strong>しています。つまりタイの法律上「外国人」ではないので、就労制限の対象外。日本で4年、オーストラリアで3年経験を積んだ日本人美容師が、<strong>バンコクで唯一、合法的に自分の手でカット・カラー・縮毛矯正・ヘッドスパを提供している</strong>ことになります。</p>
+
+<p>Akiさん本人の言葉を借りると、こうです。</p>
+
+<blockquote><p>タイにはたくさんの日系ヘアサロンがあり、日本人美容師がいます。タイの法律では、美容室を経営することやタイ人に指導することは合法です。ただ、美容師としてお客様からお金をもらうことは違法です。その中で、Ciel Japanese Hair StudioのAkiはタイの国籍も持っているため、唯一合法で美容師をしています。</p></blockquote>
+
+<p>運営会社もタイ法人（MIYOSHI BEAUTY GROUP CO., LTD.）で、スタッフはタイの社会保険に加入しているとのこと。ここまで「表に出せる」お店は、私の知る限り他にありません。</p>
+
+<h2>お客として何が変わる？</h2>
+
+<ul>
+<li><strong>日本人が最初から最後まで施術する</strong>——カウンセリングだけでなく、カット・カラーの手も日本人。</li>
+<li><strong>それが合法</strong>——お店に後ろめたさがないので、SNSでも堂々と顔を出しているし、トラブル時の責任の所在もはっきりしている。</li>
+<li><strong>日本語・英語・タイ語のトリリンガル</strong>——タイ人スタッフのViewさんとの組み合わせで、タイ人の友人にも勧めやすい。</li>
+</ul>
+
+<h2>場所と予約</h2>
+
+<p>BTSプロンポン駅から徒歩2分、スクンビット・ソイ24のアリストンホテル2階。エンポリアムの隣です。予約は公式サイトから日本語で。カットは฿1,000〜、ヘッドスパは60分฿2,000です。</p>
+
+<p>「バンコク 美容室 日本人」で探している人は、値段や口コミと一緒に、この「合法かどうか」もひとつの基準にしてみてください。</p>
+
+<div style="border:1px solid #e8e4df;padding:24px 28px;margin-top:32px;background:#faf9f7;">
+<p style="font-size:13px;text-transform:uppercase;letter-spacing:0.1em;color:#78716c;margin:0 0 12px 0;">Ciel Japanese Hair Studio by Aki</p>
+<p style="margin:0 0 16px 0;font-size:14px;color:#57534e;">アリストンホテル2F・スクンビット ソイ24（BTSプロンポン徒歩2分）</p>
+<div style="display:flex;flex-wrap:wrap;gap:10px;">
+<a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">予約する</a>
+<a href="https://www.ciel-japanesehairstudio-bkk.com/japanese-hair-salon-bangkok.html" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">日本人美容室ガイド</a>
+</div>
+</div>`,
+  },
+  {
+    slug: "japanese-hairdresser-bangkok-legal-thai-law",
+    title: "Is Your Japanese Hairdresser in Bangkok Working Legally? What Thai Law Actually Says",
+    date: "2026-09-13",
+    excerpt: "In Thailand, hairdressing is a profession closed to foreigners — even with a work permit. So how do Bangkok's Japanese salons operate? And who is the one Japanese stylist who can legally cut your hair?",
+    readTime: "6 min read",
+    tags: ["Japanese hair salon Bangkok", "Thai law", "Phrom Phong"],
+    content: `<p>I have been going to Japanese hair salons in Bangkok for four years. So when a Thai friend casually mentioned that foreigners are not allowed to work as hairdressers in Thailand, I laughed — and then I went and checked. She was right.</p>
+
+<h2>What Thai law says</h2>
+
+<p>Under the Ministry of Labour Notification of 2020, issued under Thailand's Emergency Decree on the Management of Foreign Workers' Employment, <strong>hairdressing, barbering and beauty work is on the list of occupations absolutely prohibited to foreigners</strong>. A work permit does not change this. A foreign national who cuts, colours or perms a client's hair in Thailand is breaking the law.</p>
+
+<p>The penalties are real: THB 5,000–50,000 and deportation for the worker, and THB 10,000–100,000 per foreign worker for the salon that employs them.</p>
+
+<h2>So how do the Japanese salons work?</h2>
+
+<p>Here is the nuance. It is perfectly legal for a Japanese national to <strong>own and manage a salon</strong> and to <strong>train Thai staff</strong>. That is why, at most Japanese-run salons in Bangkok, the Japanese stylist is officially the owner, technical adviser or manager, and the actual service is performed by Thai staff. If you have ever had a Japanese consultation followed by a Thai stylist doing everything from shampoo to finish, that is the structure you were looking at.</p>
+
+<p>And, to be honest, there are also salons where the Japanese stylist does pick up the scissors and take your money. That is not a grey area. It is illegal — and it raises a practical question for clients: if something goes wrong, can that salon formally take responsibility?</p>
+
+<h2>The one exception: a Japanese stylist with Thai nationality</h2>
+
+<p>This is where Aki, the owner-stylist of Ciel Japanese Hair Studio in Phrom Phong, comes in. Aki has a Japanese father and a Thai mother and <strong>holds Thai nationality</strong>. In the eyes of Thai law he is not a foreigner, so the restriction does not apply to him. A Japanese-trained stylist with four years in Japan and three in Australia, he is <strong>the only Japanese hairdresser in Bangkok who can legally cut, colour, straighten and do head spa with his own hands</strong>.</p>
+
+<p>In Aki's own words:</p>
+
+<blockquote><p>Thailand has many Japanese-run hair salons with Japanese stylists. Under Thai law, owning a salon and training Thai staff is legal. But working as a hairdresser and taking money from clients is illegal. Among them, Aki of Ciel Japanese Hair Studio also holds Thai nationality, and so is the only one practising legally as a hairdresser.</p></blockquote>
+
+<p>The salon is run by a Thai company, MIYOSHI BEAUTY GROUP CO., LTD., and the staff are enrolled in Thai social security. I do not know of another Japanese salon in the city that can put all of that in writing.</p>
+
+<h2>What this means for you as a client</h2>
+
+<ul>
+<li><strong>A Japanese stylist does the whole service</strong> — not just the consultation, but the cut and the colour.</li>
+<li><strong>It is legal</strong> — which is why the salon is happy to show faces on social media, and why responsibility is clear if anything ever goes wrong.</li>
+<li><strong>Japanese, English and Thai are all spoken</strong> — and there is a Thai stylist, View, for friends who prefer Thai.</li>
+</ul>
+
+<h2>Where and how to book</h2>
+
+<p>Ariston Hotel, 2nd floor, Sukhumvit Soi 24 — two minutes on foot from BTS Phrom Phong, next to Emporium. Book online in English. Cuts from THB 1,000; the 60-minute Japanese head spa is THB 2,000.</p>
+
+<p>If you are searching for a Japanese hair salon in Bangkok, add "is it legal?" to your checklist, right next to price and reviews.</p>
+
+<div style="border:1px solid #e8e4df;padding:24px 28px;margin-top:32px;background:#faf9f7;">
+<p style="font-size:13px;text-transform:uppercase;letter-spacing:0.1em;color:#78716c;margin:0 0 12px 0;">Ciel Japanese Hair Studio by Aki</p>
+<p style="margin:0 0 16px 0;font-size:14px;color:#57534e;">Ariston Hotel 2F, Sukhumvit Soi 24 (2 min from BTS Phrom Phong)</p>
+<div style="display:flex;flex-wrap:wrap;gap:10px;">
+<a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">Book online</a>
+<a href="https://www.ciel-japanesehairstudio-bkk.com/japanese-hair-salon-bangkok.en.html" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">Japanese salon guide</a>
+</div>
+</div>`,
+  },
+  {
     slug: "moving-to-bangkok-guide",
     title: "Moving to Bangkok: What Nobody Tells You Before You Go",
     date: "2026-02-15",

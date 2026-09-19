@@ -24,19 +24,27 @@ export const posts: Post[] = [
 
 <p>Two things made me pick her. First, colour is her speciality — balayage, highlights, high-tone blondes, inner colour and natural grey blending are what she does all day. Second, she speaks Thai and English, and I wanted to be able to say "a bit warmer" and "not that much" without a translation app.</p>
 
-<h2>The consultation: done on the salon's own app, not a chat over the sink</h2>
+<h2>The consultation: done on the salon's own iPad app, not a chat over the sink</h2>
 
-<p>This is the part I did not expect. Ciel runs its consultations on an iPad app the salon built for itself. View sat next to me (not behind me in the mirror), photographed my hair from the front, sides and back, and went through a proper check on the screen: what I had done before and when, whether my hair had been bleached, any scalp sensitivity, how often I wash and heat-style, and what I actually wanted the colour to do for me.</p>
+<p>This is the part I did not expect. Ciel built its own counselling app, and every appointment starts with it. You pick your language on the iPad (English, Thai or Japanese), pick what you are in for, and the app walks you through the questions a good colourist would ask if she had all the time in the world. For highlights it asked me:</p>
 
-<p>Then she pulled up reference photos and marked on the screen where the lighter pieces would sit — around the face, through the mid-lengths, softer at the roots so it grows out without a line. My "before" photos and the whole plan are saved to my file, so next time the salon can see exactly what was done, which formula was used, and how it has faded. No more "I think it was about level 8?" conversations.</p>
+<ul>
+<li><strong>Where</strong> — face-framing only, top only, full head, chunky panels, or scattered.</li>
+<li><strong>How fine</strong> — from "very fine and natural" to "chunky and bold".</li>
+<li><strong>Which tone</strong> — blonde, ash, caramel, platinum, pink beige, copper.</li>
+<li><strong>How much contrast</strong> against my base, and what to do with the base itself.</li>
+<li><strong>My hair's history</strong> — virgin hair, coloured, bleached, home box colour — plus my current level on a colour chart on the screen, and what is bothering me about my hair right now.</li>
+</ul>
 
-<p>I have been to a lot of salons in this city. Nobody has ever recorded my hair like this.</p>
+<p>There is even an AI chat in the app: I typed "will this go orange again?" and it explained, in plain English, why my last highlights turned brassy and what a toner does. Meanwhile View sees my answers on her side, in her own language, phrased the way a stylist would say it — so nothing was lost between my English and her Thai, and she arrived at my chair already knowing what I wanted. (There is also a drinks menu on the same iPad. I had the iced coffee.)</p>
+
+<p>I have been to a lot of salons in this city. Nobody has ever asked me the right questions like this before they picked up the bowl.</p>
 
 <h2>What she did (and what she refused to do)</h2>
 
 <ul>
 <li><strong>Foil highlights, fine and close together</strong> around the face and on the top layers, so the result reads as light rather than striped.</li>
-<li><strong>A bond-protecting treatment mixed into the lightener</strong> and a toner afterwards to kill the yellow. She lifted only as far as my hair could take — when I asked for "a bit lighter", she showed me on the app why that would push my ends past the point of no return, and I am glad she said no.</li>
+<li><strong>A bond-protecting treatment mixed into the lightener</strong> and a toner afterwards to kill the yellow. She lifted only as far as my hair could take — when I asked for "a bit lighter", she pointed at my hair history on the app and explained why that would push my ends past the point of no return, and I am glad she said no.</li>
 <li><strong>A TOKIO Inkarami treatment</strong> at the end. My hair felt heavier and smoother than before I sat down, which after bleach is not something I have ever been able to say.</li>
 </ul>
 
@@ -65,7 +73,7 @@ export const posts: Post[] = [
 
 <p><strong>Is View a Japanese stylist?</strong> No — she is Thai, trained in Japanese techniques and working in a Japanese-owned salon under a Japanese owner-stylist. That combination is exactly why she is legally able to do the whole service herself.</p>
 
-<p><strong>Do I need to speak Thai?</strong> No. She speaks English well, and the consultation on the iPad is visual — photos, references and a marked-up plan — so nothing gets lost.</p>
+<p><strong>Do I need to speak Thai?</strong> No. She speaks English well, and the consultation runs on the iPad in your language with her side shown in hers, so nothing gets lost.</p>
 
 <p><strong>Can I get highlights and a treatment on the same day?</strong> Yes; that is the combination I had. The TOKIO treatment is what made the difference to how the bleached hair feels.</p>
 

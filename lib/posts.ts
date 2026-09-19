@@ -10,6 +10,79 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: "highlights-bangkok-japanese-salon-thai-stylist-view",
+    title: "I Finally Got Highlights in Bangkok Without the Brassy Regret — Thanks to a Thai Stylist Trained the Japanese Way",
+    date: "2026-09-19",
+    excerpt: "Highlights in Bangkok are a gamble: too orange, too stripey, or damaged to straw. This time I booked View, the Thai colourist at Ciel Japanese Hair Studio in Phrom Phong, and the consultation alone — done on the salon's own iPad app — was worth the trip.",
+    readTime: "7 min read",
+    tags: ["Highlights Bangkok", "Japanese hair salon Bangkok", "Thai stylist", "Balayage", "Phrom Phong"],
+    content: `<p>Every expat woman I know in Bangkok has a highlights horror story. Mine was two years ago on Thonglor: I asked for soft, sun-kissed pieces and walked out with orange stripes and hair that snapped when I brushed it. Since then I have stuck to one-colour jobs. This month I finally tried again — and I went to a Japanese salon, but not to the Japanese stylist.</p>
+
+<h2>Why I booked the Thai stylist at a Japanese salon</h2>
+
+<p>Ciel Japanese Hair Studio in Phrom Phong is owned and run by Aki, a Japanese stylist with Thai nationality (I wrote about the legal side of that <a href="/emma-carter-blog/blog/japanese-hairdresser-bangkok-legal-thai-law">here</a>). Since September the salon also has a Thai stylist and colourist called <strong>View</strong>, who trained in Japanese techniques and works exactly the way the salon does: slow consultation, foil by foil, no shortcuts.</p>
+
+<p>Two things made me pick her. First, colour is her speciality — balayage, highlights, high-tone blondes, inner colour and natural grey blending are what she does all day. Second, she speaks Thai and English, and I wanted to be able to say "a bit warmer" and "not that much" without a translation app.</p>
+
+<h2>The consultation: done on the salon's own app, not a chat over the sink</h2>
+
+<p>This is the part I did not expect. Ciel runs its consultations on an iPad app the salon built for itself. View sat next to me (not behind me in the mirror), photographed my hair from the front, sides and back, and went through a proper check on the screen: what I had done before and when, whether my hair had been bleached, any scalp sensitivity, how often I wash and heat-style, and what I actually wanted the colour to do for me.</p>
+
+<p>Then she pulled up reference photos and marked on the screen where the lighter pieces would sit — around the face, through the mid-lengths, softer at the roots so it grows out without a line. My "before" photos and the whole plan are saved to my file, so next time the salon can see exactly what was done, which formula was used, and how it has faded. No more "I think it was about level 8?" conversations.</p>
+
+<p>I have been to a lot of salons in this city. Nobody has ever recorded my hair like this.</p>
+
+<h2>What she did (and what she refused to do)</h2>
+
+<ul>
+<li><strong>Foil highlights, fine and close together</strong> around the face and on the top layers, so the result reads as light rather than striped.</li>
+<li><strong>A bond-protecting treatment mixed into the lightener</strong> and a toner afterwards to kill the yellow. She lifted only as far as my hair could take — when I asked for "a bit lighter", she showed me on the app why that would push my ends past the point of no return, and I am glad she said no.</li>
+<li><strong>A TOKIO Inkarami treatment</strong> at the end. My hair felt heavier and smoother than before I sat down, which after bleach is not something I have ever been able to say.</li>
+</ul>
+
+<p>The whole thing took about three hours. View checked the foils constantly rather than setting a timer and walking away, and she explained each step before she did it — in plain English, with the confidence of someone who has done this a few thousand times.</p>
+
+<h2>The person, not just the technique</h2>
+
+<p>What stayed with me is how calm she is. There is no upselling, no "you should really add a bleach wash", no sighing at my Thonglor disaster. She asked what I do for a living and how much time I have in the morning, and she planned the colour around that — low-maintenance pieces that will still look intentional in three months. When I got nervous during the toner she laughed and said the same thing every good colourist eventually says: trust the process.</p>
+
+<p>She also, quietly, does the little Japanese-salon things: the towel over the eyes at the basin, the neck massage during the shampoo, the ten-second style check before you leave. It is the same standard as the owner's chairs, at a lower price.</p>
+
+<h2>Prices for highlights and colour with View</h2>
+
+<p>View's menus are priced below the owner's, and there are currently View-only packages on the booking page: cut and full colour from around THB 2,900, highlight bleach and colour with a cut around THB 4,300, and a balayage design at THB 5,590. A full-colour and TOKIO treatment combination is about THB 3,200. There is no fee to request her — you simply pick "View" as your stylist when you book online.</p>
+
+<h2>Who should book View?</h2>
+
+<ul>
+<li>You want <strong>highlights, balayage or a high-tone blonde in Bangkok</strong> and you are scared of brassiness or breakage.</li>
+<li>You want a <strong>female stylist at a Japanese hair salon</strong>, or you are more comfortable in Thai than in Japanese.</li>
+<li>You are a <strong>first-timer at a Japanese salon</strong> and want the full Japanese-style service at a friendlier price.</li>
+<li>You are Thai and your friends keep asking where you got your colour done — she is the answer.</li>
+</ul>
+
+<h2>Frequently asked questions</h2>
+
+<p><strong>Is View a Japanese stylist?</strong> No — she is Thai, trained in Japanese techniques and working in a Japanese-owned salon under a Japanese owner-stylist. That combination is exactly why she is legally able to do the whole service herself.</p>
+
+<p><strong>Do I need to speak Thai?</strong> No. She speaks English well, and the consultation on the iPad is visual — photos, references and a marked-up plan — so nothing gets lost.</p>
+
+<p><strong>Can I get highlights and a treatment on the same day?</strong> Yes; that is the combination I had. The TOKIO treatment is what made the difference to how the bleached hair feels.</p>
+
+<p><strong>Where is the salon?</strong> Ariston Hotel, 2nd floor, Sukhumvit Soi 24 — two minutes on foot from BTS Phrom Phong, beside Emporium.</p>
+
+<p>Verdict: for the first time in two years I have highlights I do not need to hide under a hat. If you have been putting off colour in Bangkok because of a bad experience, book View, do the consultation properly, and let her tell you no when she needs to.</p>
+
+<div style="border:1px solid #e8e4df;padding:24px 28px;margin-top:32px;background:#faf9f7;">
+<p style="font-size:13px;text-transform:uppercase;letter-spacing:0.1em;color:#78716c;margin:0 0 12px 0;">Ciel Japanese Hair Studio by Aki — stylist View</p>
+<p style="margin:0 0 16px 0;font-size:14px;color:#57534e;">Ariston Hotel 2F, Sukhumvit Soi 24 (2 min from BTS Phrom Phong). Thai / English / Japanese spoken.</p>
+<div style="display:flex;flex-wrap:wrap;gap:10px;">
+<a href="https://www.ciel-japanesehairstudio-bkk.com" target="_blank" rel="noopener" style="display:inline-block;background:#111;color:#fff;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">Book View online</a>
+<a href="https://www.ciel-japanesehairstudio-bkk.com/japanese-hair-salon-bangkok.en.html" target="_blank" rel="noopener" style="display:inline-block;border:1px solid #111;color:#111;padding:10px 20px;font-size:13px;text-decoration:none;letter-spacing:0.05em;">Menu &amp; prices</a>
+</div>
+</div>`,
+  },
+  {
     slug: "japanese-hairdresser-bangkok-legal-thai-law",
     title: "Is Your Japanese Hairdresser in Bangkok Working Legally? What Thai Law Actually Says",
     date: "2026-09-13",

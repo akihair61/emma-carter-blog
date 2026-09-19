@@ -50,6 +50,7 @@ function formatDate(dateStr: string) {
 }
 
 const coverImages: Record<string, string> = {
+  "highlights-bangkok-japanese-salon-thai-stylist-view": "/emma-carter-blog/images/view-stylist.jpg",
   "best-japanese-hair-salon-bangkok": "/emma-carter-blog/images/salon-reception.jpg",
   "tokio-inkarami-treatment-bangkok": "/emma-carter-blog/images/salon-chairs.jpg",
   "japanese-head-spa-bangkok": "/emma-carter-blog/images/salon-headspa.jpg",
